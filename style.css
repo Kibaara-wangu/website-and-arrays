@@ -1,0 +1,134 @@
+#All{
+    background-color:rgb(119, 29, 203);
+    background-origin: padding-box;
+    margin: 5%;
+    border: solid 3px;
+
+}
+button{
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    font-size: 10px;
+}
+#navbar{
+    display: flex;
+    color: white;
+    background-color: darkcyan;
+    gap: 80px;
+   
+}
+#navbar1{
+    background-color: darkslategrey;
+    display: flex;
+    color: white;
+    gap: 200px;
+    font-size: 20px;
+    
+    
+    
+}
+.words{
+    margin-left: 5%;
+}
+.person{
+    margin-top: 10%;
+}
+
+.color{
+    color: goldenrod;
+}
+.image{
+    margin-top: 7%;
+}
+.case{
+    justify-content: center;
+}
+.print{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+.phone{
+    display: flex;
+    gap: 600px;
+    font-size: 20px;
+}
+.blog{
+    display: flex;
+    gap: 1100px;
+   
+}
+h3{
+    color: blue;
+}
+.imagesl{
+    display: flex;
+    gap: 200px;
+    background-color: beige;
+}
+section{
+    margin: 0 auto;
+    background-color: purple;
+    border: solid 1px;
+    border-radius: 50px;
+    width: 80%;
+    height: 600px;
+    text-align: center;
+    display: flex;
+    gap: 300px;
+    font-size: 20px;
+}
+.imag{
+    margin-top: 20%;
+    
+}
+#footer{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+@media screen and (min-width: 412px) {
+    #navbar{
+        /* display: flex; */
+        /* color: white; */
+        /* background-color: darkcyan; */
+        
